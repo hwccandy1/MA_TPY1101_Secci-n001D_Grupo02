@@ -94,7 +94,7 @@ SRMM centraliza y automatiza la gestión de maquinaria mediante una plataforma w
 - Prevención de solapamiento de fechas.
 - Control de entrega y devolución.
 
-### 📊 Dashboard y Reportes
+### Dashboard y Reportes
 
 - Indicadores operacionales.
 - Estado de la flota.
