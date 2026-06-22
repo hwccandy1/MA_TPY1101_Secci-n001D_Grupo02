@@ -1,5 +1,7 @@
 # SRMM - Sistema de Reparación y Mantenimiento de Maquinaria
 
+# Integrantes
+Constanza Orellana - Corina Roa - Rocío Trujillo - Daniel Onetto 
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
