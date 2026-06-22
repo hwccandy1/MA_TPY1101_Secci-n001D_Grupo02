@@ -1,6 +1,6 @@
 # SRMM - Sistema de Reparación y Mantenimiento de Maquinaria
 
-## Integrantes
+### Integrantes
 Constanza Orellana - Corina Roa - Rocío Trujillo - Daniel Onetto 
 
 
